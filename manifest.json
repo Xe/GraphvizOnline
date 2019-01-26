@@ -5,12 +5,12 @@
     "background_color": "#fa99ca",
     "display": "standalone",
     "scope": "/",
-    "start_url": "https://graphviz.christine.website",
+    "start_url": "/",
     "description": "Graphviz on the go.",
     "orientation": "any",
     "icons": [
         {
-            "src": "https://graphviz.christine.website/icon.png",
+            "src": "/icon.png",
             "sizes": "1000x820"
         }
     ]
